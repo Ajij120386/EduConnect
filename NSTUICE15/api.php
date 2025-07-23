@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['prompt'])) {
     if ($userPrompt !== '') {
         $_SESSION['chat_history'][] = ['role' => 'user', 'content' => $userPrompt];
 
-        $secretKey = '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';
+        // $secretKey = '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';
         $endpoint = 'https://api.groq.com/openai/v1/chat/completions';
 
         $data = [
