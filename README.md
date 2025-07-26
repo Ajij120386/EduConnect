@@ -87,36 +87,47 @@ More Functionality will be added with time
 
 ## ✅ Register Page 
 
+<img width="381" height="594" alt="Student Registration" src="https://github.com/user-attachments/assets/2ad16ca0-96ff-4bc2-ac5a-3b46dd51a6cd" />
 
 
-##✅ Login Page 
+## ✅ Login Page 
+
+<img width="617" height="454" alt="Student Login" src="https://github.com/user-attachments/assets/53940534-f038-4c13-b306-53b9608653f6" />
 
 
 ## ✅ Academic Interaction Hub
 
 ### Post Creation Box Page 
 
+<img width="1065" height="510" alt="post newwwwww" src="https://github.com/user-attachments/assets/d0899d00-5098-49e2-9cf0-e3abf9dd425e" />
 
+ 
 ### Shared Post with Comment Feature
 
 
 <img width="1128" height="586" alt="post With comments" src="https://github.com/user-attachments/assets/3dc94287-c1ca-40e5-99cb-ce9f94b4cdbc" />
 
+### Post Layout Forum
+
+<img width="649" height="633" alt="Post333" src="https://github.com/user-attachments/assets/080fdafd-4bae-44b2-87c4-792aae9bd809" />
+
 
 ## ✅ 	Class Schedule Page
 
+<img width="322" height="420" alt="view ClassSheduke" src="https://github.com/user-attachments/assets/7814b1d3-47ae-4fc5-a49c-1a6c60bc9b74" />
 
 
 ## ✅ Exam Schedule Page
 
+<img width="311" height="412" alt="examsview" src="https://github.com/user-attachments/assets/1cc948a0-9a47-4ed6-a22e-65d1851013f7" />
 
-
-## ✅ Smart User Finder Module
 
 
 ## ✅	Note Sharing Page
 
 ### Semester Selection Interface
+
+<img width="1329" height="412" alt="shNE22" src="https://github.com/user-attachments/assets/899e603e-22fd-4b12-a32e-8a95d9d51933" />
 
 
 ### Note Upload Page
@@ -129,13 +140,17 @@ More Functionality will be added with time
 
 ### Latest Uploaded Notes
 
-<img width="1153" height="470" alt="latest noteeeeeeeeee" src="https://github.com/user-attachments/assets/e1e414e6-a994-4461-9a82-06202bb3aef1" />
+<img width="1122" height="373" alt="latesestNEWWWWWWWNote" src="https://github.com/user-attachments/assets/2796f3f7-428c-405b-9bc8-5f74fc3c6ca7" />
+
 
 
 ### Semester and Course Display Page
 
+<img width="1329" height="412" alt="shNE22" src="https://github.com/user-attachments/assets/899e603e-22fd-4b12-a32e-8a95d9d51933" />
 
 ### Course & Note Selection
+
+<img width="889" height="591" alt="shN11" src="https://github.com/user-attachments/assets/a9cf7319-9d9d-49e2-a0b8-480d7a7f8052" />
 
 
 ### Available Notes Viewer
@@ -148,17 +163,22 @@ More Functionality will be added with time
 
 ### Group Directory Page
 
+<img width="1301" height="528" alt="GroupShows002" src="https://github.com/user-attachments/assets/445e346a-9489-40d9-a56a-751000486151" />
 
 ### Group Admin Panel
+
+<img width="1296" height="368" alt="pending join req" src="https://github.com/user-attachments/assets/af33ee34-e3b2-4200-94ec-3a85012a2bd0" />
 
 
 
 ### Group Creation Interface
 
+<img width="1018" height="635" alt="GroupCreate" src="https://github.com/user-attachments/assets/891e2982-70d3-482f-8930-486cc96f90e6" />
 
 
 ### My Groups Page
 
+<img width="995" height="591" alt="GroupMy" src="https://github.com/user-attachments/assets/1fe81af2-a9fd-4fa5-85f1-1d1e62e113d6" />
 
 
 
@@ -169,32 +189,47 @@ More Functionality will be added with time
 
 ### Group Member Management
 
+<img width="1273" height="502" alt="groupmembernewwwwwwwwwww" src="https://github.com/user-attachments/assets/a0343171-7436-4962-891a-ef77ac1caacf" />
+
 
 
 ## ✅  Private Notes Archive
 
 ### 	Note Upload Interface
 
+<img width="1183" height="612" alt="UPl" src="https://github.com/user-attachments/assets/7cf179f0-5e6f-402d-a58b-fc95683b9217" />
 
 
 ### Organized Note Management
 
+<img width="1183" height="551" alt="upl2" src="https://github.com/user-attachments/assets/48c94722-88ce-4128-853f-6ecd2412e645" />
+
+
+## ✅ 	Smart User Finder Module
+
+<img width="1246" height="565" alt="searchifynewwwwwww" src="https://github.com/user-attachments/assets/0ac23405-c2a2-4bb7-8df4-67146e84cb18" />
+
 
 ## ✅ 	Smart Task Tracker
+
+<img width="818" height="587" alt="to do list newwwwwwwwwwww" src="https://github.com/user-attachments/assets/4e6fca11-0de6-4ecd-bb61-78e08e48b400" />
 
 
 ## ✅  	Notification Panel
 
+<img width="468" height="619" alt="noti" src="https://github.com/user-attachments/assets/8c5b88bc-a6d0-47a4-a158-34556593afae" />
 
 
 ## ✅  Unified Profile Hub
 
 ### 	User Dashboard
 
+<img width="1040" height="649" alt="mdas" src="https://github.com/user-attachments/assets/fec65fa0-2d83-4c00-9ccb-c01813df4949" />
 
 
 ### 	Profile Edit Interface
 
+<img width="1105" height="1270" alt="image" src="https://github.com/user-attachments/assets/ada24fa4-a63c-4b79-b906-219bb121be8e" />
 
 
 ## ✅  	View User Profile
