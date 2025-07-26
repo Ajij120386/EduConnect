@@ -79,10 +79,14 @@ More Functionality will be added with time
 # 👨‍🎓 Student Module
 
 ## Landing Page 
-<img width="554" height="185" alt="image" src="https://github.com/user-attachments/assets/92c360ec-df04-46b4-b372-ba7413436c17" />
-<img width="554" height="105" alt="image" src="https://github.com/user-attachments/assets/0e0ae4f6-d437-42be-876c-0f9c161972e5" />
+
+<img width="1317" height="435" alt="student dash1" src="https://github.com/user-attachments/assets/8143b68e-4de1-453e-a7d1-5d36e8443c0f" />
+
+<img width="1324" height="315" alt="studetn dash2" src="https://github.com/user-attachments/assets/dd549ec9-b5ce-4fae-a4de-d548e9bee4c1" />
+
 
 ## ✅ Register Page 
+
 <img width="315" height="445" alt="image" src="https://github.com/user-attachments/assets/bce7678d-a20e-45ea-b2f5-a098d7c5c9c0" />
 
 ##✅ Login Page 
@@ -94,7 +98,10 @@ More Functionality will be added with time
 <img width="534" height="219" alt="image" src="https://github.com/user-attachments/assets/029228f3-8463-4469-9738-7aec62b9eba5" />
 
 ### Shared Post with Comment Feature
-<img width="526" height="271" alt="image" src="https://github.com/user-attachments/assets/d36f6bd4-43b8-43ee-a51a-c999c78e1881" />
+
+
+<img width="1128" height="586" alt="post With comments" src="https://github.com/user-attachments/assets/3dc94287-c1ca-40e5-99cb-ce9f94b4cdbc" />
+
 
 ## ✅ 	Class Schedule Page
 
@@ -208,7 +215,8 @@ More Functionality will be added with time
 
 ### ✅ Edit Class Schedule Panel
 
-<img width="789" height="461" alt="image" src="https://github.com/user-attachments/assets/4aa4a5d9-2dfe-4912-95fd-ba5c7fb9d233" />
+<img width="1010" height="591" alt="edit admin class shedule" src="https://github.com/user-attachments/assets/0cb55656-d1b8-43d0-930a-3385e14cf316" />
+
 
 ## ✅	Exam Schedule Management
 
@@ -217,7 +225,8 @@ More Functionality will be added with time
 
 ### ✅ Edit Class Schedule Panel
 
-<img width="776" height="330" alt="image" src="https://github.com/user-attachments/assets/61d16705-1327-4512-9837-59ab50c20c3e" />
+<img width="950" height="373" alt="edit admin exam shedule" src="https://github.com/user-attachments/assets/687b8157-e7b9-4cd3-b904-d2327fb52c34" />
+
 
 ## ✅ 	Notice Management Panel
 <img width="500" height="227" alt="image" src="https://github.com/user-attachments/assets/f1c65873-ffdb-4ce1-853b-8c7cf5e6fa5a" />
@@ -238,59 +247,78 @@ More Functionality will be added with time
 
 ## Landing Page 
 
-<img width="865" height="313" alt="image" src="https://github.com/user-attachments/assets/9357467c-61da-4c1b-a354-e3c6e8f181e8" />
-<img width="865" height="167" alt="image" src="https://github.com/user-attachments/assets/a1575417-6dcb-4dcc-ad2a-00936fce549d" />
+<img width="1309" height="460" alt="teacher dash 1" src="https://github.com/user-attachments/assets/03f46145-35d2-414b-b412-f7363a121035" />
+
+<img width="1318" height="297" alt="teacher dash2" src="https://github.com/user-attachments/assets/1ba1c8b0-e357-40ef-b72a-52d6a598393f" />
+
+
 
 
 ## ✅ Register Page 
 
-<img width="529" height="721" alt="image" src="https://github.com/user-attachments/assets/e5d2210b-034a-44f5-a7f3-b5394754db55" />
+<img width="412" height="642" alt="RegisF" src="https://github.com/user-attachments/assets/6cf5531f-4b8d-40b7-bd90-58e5dd23d9b8" />
+
 
 
 ## ✅ Login Page 
-<img width="632" height="467" alt="image" src="https://github.com/user-attachments/assets/53327f44-cddc-4523-81a0-87b4036ef95c" />
+
+<img width="765" height="471" alt="LoginF" src="https://github.com/user-attachments/assets/fd105163-c8d7-43aa-a947-07666a384f1a" />
+
+## ✅ 	Class Schedule Management
+
+###  	EDIT Class Schedule Page
+
+<img width="1241" height="462" alt="edit techer xlass shedule" src="https://github.com/user-attachments/assets/d3ab7614-128f-4971-8ffe-b2e1b30d74c4" />
 
 
 
-## ✅ 	View Class Schedule Page
+###  View Exam Schedule Page
 
-<img width="408" height="436" alt="image" src="https://github.com/user-attachments/assets/8b06e762-8eda-446e-98f2-125054b2203a" />
+## ✅ 	EXAM Schedule Management
+
+###  	EDIT EXAM Schedule Page
+
+<img width="1198" height="394" alt="edit techer exam shedule" src="https://github.com/user-attachments/assets/47ca2973-6d15-4cb8-b189-44723d712031" />
 
 
-## ✅ Track Exam Schedule Page
-
-<img width="550" height="401" alt="image" src="https://github.com/user-attachments/assets/b0394c16-2875-4fd7-ab2e-449549b6da4d" />
 
 
 # Visitor Module
 
 ## 	Visitor Dashboard
 
+<img width="1500" height="820" alt="image" src="https://github.com/user-attachments/assets/37cff021-bbd3-43c1-abf6-a7c4b2142da6" />
+
 ## Academic Syllabus Overview
 
 ### View Academic Syllabus
 
-<img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/75e9200a-7493-4eeb-b853-6470f947ddc5" />
+<img width="1191" height="630" alt="SViewStudent" src="https://github.com/user-attachments/assets/618cb359-fedd-4ac3-8d99-48c7b23c0ba1" />
+
 
 ### 	Filter Syllabus by Term
 
-<img width="851" height="450" alt="image" src="https://github.com/user-attachments/assets/9ecd8c93-7874-4d72-9706-6034b4558502" />
+<img width="1189" height="629" alt="termwiseSSer" src="https://github.com/user-attachments/assets/dd2673ce-cd1a-4440-ae47-c4963b400b91" />
+
+
 
 ## 	Academic AI Assistant Chat Module
 
 ### AI Query Panel
 
-<img width="834" height="205" alt="image" src="https://github.com/user-attachments/assets/233fdf60-6c90-463e-8277-a0df55211193" />
+<img width="1283" height="315" alt="ai1111" src="https://github.com/user-attachments/assets/97a906af-2229-4cc8-9a6f-33f0e1b178d9" />
+
 
 
 ### AI Response Viewer
 
-<img width="794" height="564" alt="image" src="https://github.com/user-attachments/assets/98bffdd5-3818-4e05-a4de-33b5f5c8ed60" />
+<img width="778" height="552" alt="ai3" src="https://github.com/user-attachments/assets/e61f7e2a-f878-4716-b997-4fb5fe2a232c" />
 
 
 ### 	Contact & Support Form
 
-<img width="848" height="374" alt="image" src="https://github.com/user-attachments/assets/5aa045de-f5a7-43ca-8ddd-5d5549fc216f" />
+<img width="1357" height="599" alt="contact me form" src="https://github.com/user-attachments/assets/4d138357-4d0e-4f85-99d8-248d5017b603" />
+
 
 ## Code Details
 
