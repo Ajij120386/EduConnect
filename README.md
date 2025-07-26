@@ -15,7 +15,9 @@ EduConnect was designed to centralize academic tasks and interactions in a user-
 
 <img width="1427" height="765" alt="image" src="https://github.com/user-attachments/assets/2b52465d-c238-4d4a-a3e7-f2f16f686267" />
 
+## Database Details
 
+<img width="968" height="613" alt="datavase details" src="https://github.com/user-attachments/assets/787e0a52-706f-4391-9265-12854cceb243" />
 
 # Features
 
@@ -234,6 +236,7 @@ More Functionality will be added with time
 
 ## ✅  	View User Profile
 
+<img width="623" height="594" alt="anotheruserDetails" src="https://github.com/user-attachments/assets/629e09aa-b7b4-416b-8f37-301175f23e1b" />
 
 
 
@@ -242,16 +245,17 @@ More Functionality will be added with time
 
 ## ✅ Dashboard
 
+<img width="1309" height="460" alt="teacher dash 1" src="https://github.com/user-attachments/assets/5cbb2210-808d-4658-adbb-2f77e8e5dda2" />
 
+<img width="1318" height="297" alt="teacher dash2" src="https://github.com/user-attachments/assets/3be348a5-2d20-46df-90ee-bccc9bd625e1" />
 
 
 
 ## ✅ Class Schedule Management
 
-
-
 ### ✅ 	Update Class Schedule
 
+<img width="753" height="578" alt="upclass" src="https://github.com/user-attachments/assets/8040a5ad-e384-44dc-b017-7796f08a8f64" />
 
 
 ### ✅ Edit Class Schedule Panel
@@ -261,8 +265,10 @@ More Functionality will be added with time
 
 ## ✅	Exam Schedule Management
 
+
 ### ✅ Update Exam Schedule
 
+<img width="757" height="307" alt="image" src="https://github.com/user-attachments/assets/1f029c3b-0514-4820-b007-e93461711903" />
 
 ### ✅ Edit Class Schedule Panel
 
@@ -271,16 +277,19 @@ More Functionality will be added with time
 
 ## ✅ 	Notice Management Panel
 
+<img width="895" height="575" alt="managenotice333" src="https://github.com/user-attachments/assets/eb92c97d-0f9b-4bdb-9c3f-6348a3c55516" />
 
 
 ## ✅	Academic Syllabus Management
 
 
+<img width="1053" height="632" alt="es0" src="https://github.com/user-attachments/assets/a8bbfd42-9c15-455d-b24e-6f785da3d2fd" />
 
 
 
 ## ✅		Approve New Users
 
+<img width="1186" height="365" alt="apnewus" src="https://github.com/user-attachments/assets/3fbfc412-2eaa-4751-b3c1-e89f7b9f9c89" />
 
 
 
@@ -297,25 +306,33 @@ More Functionality will be added with time
 
 ## ✅ Register Page 
 
+<img width="428" height="583" alt="Teacher Registration" src="https://github.com/user-attachments/assets/d388d0a1-82b3-4f87-8cec-930d6acae2de" />
 
 
 
 
 ## ✅ Login Page 
 
+<img width="620" height="458" alt="Teacher Login" src="https://github.com/user-attachments/assets/54f569e0-ab0f-4776-891c-f169c6cab767" />
 
 
 ## ✅ 	Class Schedule Management
+
+
+###  View Class Schedule Page
+
+<img width="326" height="344" alt="teacher dash 1" src="https://github.com/user-attachments/assets/fdf73160-2cf0-4527-b256-20b0987c9e5a" />
 
 ###  	EDIT Class Schedule Page
 
 <img width="1241" height="462" alt="edit techer xlass shedule" src="https://github.com/user-attachments/assets/d3ab7614-128f-4971-8ffe-b2e1b30d74c4" />
 
 
+## ✅ 	EXAM Schedule Management
 
 ###  View Exam Schedule Page
+<img width="317" height="320" alt="image" src="https://github.com/user-attachments/assets/9e70dd46-0ccb-46e4-86d5-e17d458ab626" />
 
-## ✅ 	EXAM Schedule Management
 
 ###  	EDIT EXAM Schedule Page
 
@@ -330,6 +347,8 @@ More Functionality will be added with time
 
 <img width="978" height="535" alt="Student Dashboard - Google Chrome 7_22_2025 4_12_20 PM" src="https://github.com/user-attachments/assets/0113e580-1b22-4f52-8b93-5dd32eb61392" />
 
+## 	Notice Board Overview
+<img width="1066" height="444" alt="noticeview" src="https://github.com/user-attachments/assets/7e8424ff-2dda-4bc4-8545-bdd14eaa3569" />
 
 
 ## Academic Syllabus Overview
