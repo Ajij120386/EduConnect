@@ -392,4 +392,7 @@ More Functionality will be added with time
 
 - [Mohammad Ajij](https://github.com/Ajij120386)
 
+## Supervised by
+
+Md. Mahbubul Alam Sir
 
